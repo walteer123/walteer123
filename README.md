@@ -19,8 +19,8 @@ I'm an Android Developer who loves learning and trying new things.
 - And much more!
  <div><br>
   <a href="https://github.com/walteer123">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=walteer123&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walteer123&layout=compact&langs_count=2&theme=gotham"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=walteer123&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walteer123&layout=compact&langs_count=2&theme=gotham"/>
  </div>  
 <div style="display: inline_block"><br>
 
