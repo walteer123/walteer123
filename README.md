@@ -5,8 +5,8 @@ I'm an Android Developer who loves learning and trying new things.
 - 🌱 I’m currently learning and mastering Jetpack Compose
 
 #### 🚀 Take a look on my projects!
-- [Doggo Compose](https://github.com/walteer123/doggo-compose) - A modular MVI app using <b>TheDogApi</b>, Kotlin, Jetpack Compose and Ktor
-- [PokeDex Data](https://github.com/walteer123/pokedex-data) - An MVI app using <b>PokeApi</b>, Kotlin, Jetpack Libraries and Retrofit
+- [Doggo Compose](https://github.com/walteer123/doggo-compose) - A modular MVI app using <b>TheDogApi</b>, Kotlin, Koin, Jetpack Compose and Ktor
+- [PokeDex Data](https://github.com/walteer123/pokedex-data) - An MVI app using <b>PokeApi</b>, Kotlin, Hilt, Jetpack Libraries and Retrofit
 
 #### ⚙️ Some tools and languages that I've worked with:
 - Kotlin(💖)
