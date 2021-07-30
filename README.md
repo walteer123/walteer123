@@ -1,8 +1,8 @@
 ### Hi there, I'm Walter! 👋
 I'm an Android Developer who loves learning and trying new things.
 
-- 🔭 I'm currently working on [James Delivery](https://jamesdelivery.com.br) app
-- 🌱 I’m currently learning and mastering Jetpack Compose
+- 🔭  I'm currently working on [James Delivery](https://jamesdelivery.com.br) app
+- 🌱  I’m currently learning and mastering Jetpack Compose
 
 #### 🚀 Take a look on my projects!
 - [Doggo Compose](https://github.com/walteer123/doggo-compose) - A modular MVI app using <b>TheDogApi</b>, Kotlin, Koin, Jetpack Compose and Ktor
