@@ -1,7 +1,7 @@
 ### Hi there, I'm Walter! 👋
 I'm an Android Developer who loves learning and trying new things.
 
-- 🔭 I'm currently working on [James Delivery](https://jamesdelivery.com.br) app
+- 🔭 I'm currently working on [C6 Bank](https://www.c6bank.com.br) app
 - 🌱 I’m currently learning and mastering Jetpack Compose
 
 #### 🚀 Take a look on my projects!
